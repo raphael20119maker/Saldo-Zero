@@ -1,0 +1,5 @@
+{
+  "name": "Saldo Zero",
+  "description": "A personal finance control app designed to help users manage earnings, expenses, and debts. It features a dashboard with a monthly balance, transaction registration, debt tracking, and motivational summaries powered by AI.",
+  "requestFramePermissions": []
+}
